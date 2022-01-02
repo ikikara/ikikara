@@ -23,13 +23,13 @@ Finishing my Bachelor's Degree and working in other projects.
 ## My skills in (or experiences with): 
 #### Programming Languages:
 ###### Back-end:
-![](https://img.shields.io/badge/ASM-Assembly-FCBC26) ![](https://img.shields.io/badge/-C-FCBC26?style=flat&logo=C%2B%2B&logoColor=FFFFFF) ![](https://img.shields.io/badge/-C++-FCBC26?style=flat&logo=C%2B%2B&logoColor=FFFFFF) ![](https://img.shields.io/badge/Java-FCBC26?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/M-MatLab-FCBC26) ![](https://img.shields.io/badge/Python-FCBC26?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/PostgresSQL-FCBC26?style=flat&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/Visual Basic-FCBC26?style=flat&logo=VisualStudio&logoColor=white)
+![](https://img.shields.io/badge/ASM-Assembly-FCBC26) ![](https://img.shields.io/badge/-C-FCBC26?style=flat&logo=C%2B%2B&logoColor=FFFFFF) ![](https://img.shields.io/badge/-C++-FCBC26?style=flat&logo=C%2B%2B&logoColor=FFFFFF) ![](https://img.shields.io/badge/Java-FCBC26?style=flat&logo=java&logoColor=white) ![](https://img.shields.io/badge/M-MatLab-FCBC26) ![](https://img.shields.io/badge/Python-FCBC26?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/PostgresSQL-FCBC26?style=flat&logo=postgresql&logoColor=white)  ![](https://img.shields.io/badge/Visual_Basic-FCBC26?style=flat&logo=VisualStudio&logoColor=white)
 
 ###### Front-end:
  ![](https://img.shields.io/badge/CSS-FC7B26?style=flat&logo=css3&logoColor=white) ![](https://img.shields.io/badge/HTML-FC7B26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Javascript-FC7B26?style=flat&logo=javascript&logoColor=white)
  
  ###### Others:
-![](https://img.shields.io/badge/R-F72D0E?style=flat&logo=r&logoColor=white) ![](https://img.shields.io/badge/Shell Script-F72D0E?style=flat&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Markdown-F72D0E?style=flat&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/R-F72D0E?style=flat&logo=r&logoColor=white) ![](https://img.shields.io/badge/Shell_Script-F72D0E?style=flat&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Markdown-F72D0E?style=flat&logo=markdown&logoColor=white)
 
 <br>
 <center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikikara)</center>
