@@ -15,7 +15,7 @@ Finishing my Bachelor's Degree and working in other projects.
 * Age: 20 years
 * From: Coimbra, Portugal
 * Socials:
-	+ [![](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pingucas21@gmail.com)](mailto:pingucas21@gmail.com)
+	+ [![](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0a0carll21@gmail.com)](mailto:j0a0carll21@gmail.com)
 	+ [![](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/pingucas21)
 	+ [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/j0a0_s1lva/)
 	+ [![](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJh5RKXC3ZrCeYVkv-x4zSQ) ![](https://img.shields.io/youtube/channel/views/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social)
