@@ -20,7 +20,7 @@ Finishing my Bachelor's Degree and working in other projects.
 	+ [![](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/j0a0_s1lva/)
 	+ [![](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJh5RKXC3ZrCeYVkv-x4zSQ) ![](https://img.shields.io/youtube/channel/views/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social) ![](https://img.shields.io/youtube/channel/subscribers/UCJh5RKXC3ZrCeYVkv-x4zSQ?style=social)
 * IDE/Code editors:
-	+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat=visual%20studio%20code&logoColor=white)
+	+ ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 	+ ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 	+ ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 * OS: 
