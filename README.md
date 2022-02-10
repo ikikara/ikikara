@@ -12,7 +12,7 @@ Finishing my Bachelor's Degree and working in other projects.
 
 ## More about me
 * Nationality: portuguese
-* Age: 20 years
+* Age: 21 years
 * From: Coimbra, Portugal
 * Socials:
 	+ [![](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0a0carll21@gmail.com)](mailto:j0a0carll21@gmail.com)
