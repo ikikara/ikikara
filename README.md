@@ -62,7 +62,7 @@ Finishing my Bachelor's Degree and working in other projects.
 + Math 
 	+ Mathematical Analysis
 	+ Discrete Math
-
+ 
 
 <a href="https://github.com/ikikara" >	
 	<p align="center">
