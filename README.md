@@ -27,7 +27,7 @@ Finishing my Bachelor's Degree and working in other projects.
 	+ ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 	+ ![](https://img.shields.io/badge/Linux_(Virtual_Machine)-FCC624?style=flat&logo=linux&logoColor=black)
 
-## Skills in (or experiences with): 
+## Skills in (or experiences with):  
 #### Programming Languages:
 ###### Back-end:
 ![](https://img.shields.io/badge/ASM-Assembly-333333) ![](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=5459E2) ![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6) ![](https://img.shields.io/badge/-CS-333333?style=flat&logo=C%2B%2B&logoColor=732FFA) ![](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=FFFFFF) ![](https://img.shields.io/badge/M-MatLab-333333) ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA) ![](https://img.shields.io/badge/PostgresSQL-333333?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Visual_Basic-333333?style=flat&logo=VisualStudio&logoColor=8332E1)
