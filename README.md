@@ -64,9 +64,9 @@ Finishing my Bachelor's Degree and working in other projects.
 	+ Discrete Math
  
 
-<a href="https://github.com/ikikara" >	
+<!-- <a href="https://github.com/ikikara" >	
 	<p align="center">
 		<img src="https://github-readme-stats.vercel.app/api?username=ikikara&theme=dracula" />
 	</p>
-</a>
+</a> -->
 
