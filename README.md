@@ -39,7 +39,7 @@ Finishing my Bachelor's Degree and working in other projects.
 ![](https://img.shields.io/badge/R-333333?style=flat&logo=r&logoColor=217AEE) ![](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=white) ![](https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown&logoColor=white)
 
 <br>
-<a href="https://github.com/ikikara">
+<a href="https://github.com/joaosilva21">
   	<p align="center">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikikara&theme=dracula" />
 	</p>
