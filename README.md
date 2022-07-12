@@ -41,7 +41,7 @@ Finishing my Bachelor's Degree and working in other projects.
 <br>
 <a href="https://github.com/joaosilva21">
   	<p align="center">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikikara&theme=dracula" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosilva21&theme=dracula" />
 	</p>
 </a>
 
