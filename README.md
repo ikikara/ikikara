@@ -7,8 +7,8 @@ int main() {
 }
 ```
 ## Who am I?
-I'm João Silva, a student of Informatics Engineering at University of Coimbra<br>
-Finishing my Bachelor's Degree in Informatics Engineering and working in other projects.
+I'm João Silva, a student of Cybersecurity at University of Coimbra<br>
+Having finished my Bachelor Degree in Informatics Engineering, I'm now taking a Master Degree in Cybersecurity and working in other projects.
 
 ## More about me
 * Nationality: portuguese
