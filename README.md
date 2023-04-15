@@ -63,6 +63,20 @@ Having finished my Bachelor Degree in Informatics Engineering, I'm now taking a 
 	+ Mathematical Analysis
 	+ Discrete Math
  
+## Blessing for hackers:
+<p align="center">
+	<em>
+		May your inputs always be injectable.<br>
+		May your object references forever be indirect.<br>
+		May your links always be clicked.<br>
+		May your payloads always land.<br>
+		May your buffers be forever overflowing.<br>
+		May your entropy pool never run dry.<br>
+		May no firewall block your path.<br>
+		May authentication always be bypassed.<br>
+		For ours is the bit and the baud forever, amen.<br>
+	</em>
+</p>
 
 <!-- <a href="https://github.com/ikikara" >	
 	<p align="center">
